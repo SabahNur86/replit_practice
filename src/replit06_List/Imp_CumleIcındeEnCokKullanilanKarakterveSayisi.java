@@ -1,6 +1,5 @@
-package replit_list;
+package replit06_List;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Imp_CumleIcındeEnCokKullanilanKarakterveSayisi {

@@ -1,4 +1,4 @@
-package replit01_YazdirmaSorulari;
+package replit01_SystemOutPrint;
 
 public class IkıDegikeninDegerlerininYerleriniDegistir {
       public static void main(String[] args) {

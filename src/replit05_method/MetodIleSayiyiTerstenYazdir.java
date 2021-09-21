@@ -1,4 +1,4 @@
-package replit05_Method;
+package replit05_method;
 
 public class MetodIleSayiyiTerstenYazdir {
 

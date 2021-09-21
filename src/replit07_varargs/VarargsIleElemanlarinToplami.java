@@ -1,4 +1,4 @@
-package replit_varargs;
+package replit07_varargs;
 
 public class VarargsIleElemanlarinToplami {
 
